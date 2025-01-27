@@ -1,5 +1,5 @@
 # Aliases
-alias python3="python"
+alias python="python3"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ...="cd ../../.."
